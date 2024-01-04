@@ -435,6 +435,9 @@
     textarea {
         width: 320px;
     }
+    .bar{
+        top: 25px;
+    }
 }
 @media (max-width:768px){
     #hide{
