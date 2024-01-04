@@ -263,7 +263,7 @@
     .footer{
         padding: 20px 35px;
     }
-    #cls {
+#cls {
         width: 85%;
     }
 }
@@ -396,6 +396,30 @@
     .single-menu img {
         height: 100px;
         width: 105px;
+    }
+}
+@media (max-width:360px){
+    .header{
+        left: 3%;
+    }
+    .main {
+        width: 350px;
+    }
+    .container {
+        max-width: 333px;
+    }
+    input {
+        width: 286px;
+    }
+    textarea {
+        width: 276px;
+    }
+    .res h3 {
+        font-size: 21px;
+    }
+    .cards-1 {
+        width: 290px;
+        height: 215px;
     }
 }
 @media (max-width:768px){
