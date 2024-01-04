@@ -429,6 +429,12 @@
     .cards-1 {
         width: 370px;
     }
+    input {
+        width: 330px;
+    }
+    textarea {
+        width: 320px;
+    }
 }
 @media (max-width:768px){
     #hide{
