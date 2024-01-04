@@ -1,0 +1,28 @@
+[
+    {
+        
+        "mPara":"Butter Fried Chicken",
+        "mImage":"Images/dinner4.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Honey Glazed BBQ Ribs",
+        "mImage":"Images/dinner2.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Eggplant Parmesan Stack",
+        "mImage":"Images/dinner3.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Sweet Chili And Ginger",
+        "mImage":"Images/dinner5.jpg",
+        "type":"Delight"
+    }
+
+
+]

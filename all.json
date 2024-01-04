@@ -1,0 +1,63 @@
+[
+    {
+        
+        "mPara":"Fluffy Pancake Delight",
+        "mImage":"Images/breakfast.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Classic Eggs Benedict",
+        "mImage":"Images/breakfast1.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Fresh Fruit Parfait",
+        "mImage":"Images/breakfast2.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Sunshine Harvest Salad",
+        "mImage":"Images/lunch.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Caprese Chicken Panini",
+        "mImage":"Images/lunch2.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Classic Reuben Melt",
+        "mImage":"Images/lunch3.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Butter Fried Chicken",
+        "mImage":"Images/dinner4.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Honey Glazed BBQ Ribs",
+        "mImage":"Images/dinner2.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Eggplant Parmesan Stack",
+        "mImage":"Images/dinner3.jpg",
+        "type":"Delight"
+    },
+    {
+        
+        "mPara":"Crispy Chicken caprese",
+        "mImage":"Images/lunch5.jpg",
+        "type":"Delight"
+    }
+
+]

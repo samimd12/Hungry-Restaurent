@@ -1,0 +1,411 @@
+
+
+@media only screen and (min-width:992px) and (max-width:1200px){
+    .main{
+        width:970px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .main{
+        width: 750px;
+    }
+    .single-menu{
+        /* flex-direction: column; */
+    }
+    .single-menu img{
+        margin-bottom: 25px;
+    }
+}
+@media only screen and (max-width:767px){
+    .main{
+        width: 400px;
+    }
+    .menu-column{
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .single-menu{
+        /* flex-direction: column; */
+        width: 400px;
+    }
+    .single-menu img{
+        margin-bottom: 25px;
+    }
+}
+@media (max-width:1000px){
+    .border{
+    width: 40%;
+    text-align: center;
+}
+#para{
+    font-size: 15px;
+    line-height: 1.4;
+}
+#heading{
+    margin-bottom: 10px;
+}
+
+.con {
+    width: 100%;
+    text-align: center;
+}
+}
+@media (max-width:650px){
+    .border {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media(max-width:1100px){
+    .container {
+        max-width: 1000px;
+        margin: auto;
+    }
+    .header{
+        top: 30%;
+    }
+    .cards-1 p{
+        line-height: 1.5;
+    }
+}
+@media(max-width:1050px){
+    .container {
+        max-width: 970px;
+        margin: auto;
+    }
+    .chef1{
+        padding: 7px;
+    }
+}
+@media(max-width:1000px){
+    .chefimage{
+        height: 215px;
+        width: 215px;
+    }
+    .container{
+        max-width: 950px;
+        margin: auto;
+    }
+    /* .single-menu .menu-content h5 {
+        font-size: 15px;
+    }     */
+     
+    /* .menu-column {
+        width: 32%;
+    } 
+    .menu-column p{
+        font-size: 15px;
+    } */
+}
+@media (max-width:950px){
+    .header{
+        top: 25%;
+    }
+    .recommend{
+        flex-direction: column;
+    }
+    .misofood{
+        margin-top: 10px;
+    }
+    .roastfood{
+        margin-top: 10px;
+    }
+    .content{
+        width: 70%;
+    }
+    .detail{
+        flex-direction: column;
+        align-items: center;
+    }
+    .about h4{
+        font-size: 20px;
+    }
+    .cards-1{
+        width: 650px;
+        padding: 5px 10px;
+    }
+    .cards-1 p{
+        font-size: 14px;
+    }
+    .card{
+        flex-direction: column;
+    }
+    .specialdishes{
+        flex-direction: column;
+        border: none;
+    }
+    #wash{
+        margin-bottom: 10px;
+    }
+    .header{
+        top: 31%;
+    }
+    .chef{
+        flex-wrap: wrap;
+    }
+
+}
+@media (max-width:900px){
+    .sea h3, .miso h3, .roast h3 {
+        color: #cda45e;
+        margin-bottom: 15px;
+    }
+
+    .border{
+        margin-bottom: 20px;
+        width: 50%;
+    }
+    #wash h2{
+        margin-bottom: 10px;
+    }
+    #para{
+        line-height: 1.4;
+    }
+    .contact{
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    form{
+        width: 50%;
+    }
+    .container{
+        max-width: 730px;
+    }
+    .header{
+        top: 30%;
+    }
+    .menu-column h4::before {
+        left: 42%;
+}
+    .chefimage{
+        height: 205px;
+        width: 205px;
+    }
+    .content{
+        width: 90%;
+    }
+    
+}
+@media (max-width:850px){
+    .footer1{
+        margin-bottom: 10px;
+    }
+    .header h1{
+        font-size: 49px;
+    }
+    .header{
+        top: 32%;
+        left: 18%;
+        width: 535px;
+    }
+}
+@media (max-width:750px){
+    .header{
+        left: 15%;
+    }
+    .cards-1{
+        width: 620px;
+    }
+}
+@media (max-width:700px){
+    .header{
+        width: 510px;
+        left: 14%;
+    }
+    form{
+        width: 52%;
+    }
+    .cards-1{
+        width: 550px;
+    }
+    .container{
+        max-width: 690px;
+    }
+}
+@media (max-width:650px){
+    .header{
+        left: 11%;
+    }
+    form{
+        width: 55%;
+    }
+    .cards-1{
+        width: 520px;
+    }
+    .border{
+        width: 55%;
+    }
+}
+@media (max-width:600px){
+    .header{
+        left: 8%;
+    }
+    .container{
+        max-width: 535px;
+    }
+    .images{
+        width: 80%;
+    }
+    .cards-1{
+        width: 460px;
+    }
+    form{
+        width: 67%;
+    }
+    .border{
+        width: 65%;
+    }
+    .footer p{
+        width: 100%;
+    }
+    .footer{
+        padding: 20px 35px;
+    }
+    #cls {
+        width: 85%;
+    }
+}
+@media (max-width:550px){
+    .header h1 {
+        font-size: 45px;
+    }
+    .header{
+        width: 465px;
+        top: 35%;
+    }
+    .content{
+        width: 95%;
+    }
+    .container{
+        max-width: 500px;
+    }
+    .images{
+        width: 90%;
+    }
+    .cards-1{
+        width: 430px;
+        height: 200px;
+    }
+    .border{
+        width: 70%;
+    }
+    form{
+        width: 72%;
+    }
+    textarea{
+        width: 350px;
+    }
+    input{
+        width: 360px;
+    }
+    .footer p{
+        font-size: 15px;
+    }
+}
+@media (max-width:500px){
+    .header h1{
+        font-size: 40px;
+    }
+    .header{
+        left: 7%;
+        width: 420px;
+    }
+    .container{
+        max-width: 490px;
+    }
+    .footer {
+        padding: 20px 25px;
+    }
+    form{
+        width: 74%;
+    }
+}
+@media (max-width:450px){
+    .header h1{
+        font-size: 38px;
+    }
+    .header{
+        width: 388px;
+    }
+    .content{
+        width: 90%;
+    }
+    .cards-1{
+        width: 390px;
+    }
+    .border{
+        width: 80%;
+    }
+    .res h3{
+        font-size: 25px;
+    }
+    form{
+        width: 81%;
+    }
+    .service{
+        margin: 15px 0px;
+    }
+}
+@media (max-width:400px){
+    .header h1 {
+        font-size: 32px;
+    }
+    .header{
+        width: 330px;
+        left: 6%;
+    }
+    .cards-1 {
+        width: 320px;
+        height: 215px;
+    }
+    #wash {
+        width: 333px;
+    }
+    .recommend{
+        padding: 30px 0px;
+    }
+    .border {
+        width: 95%;
+    }
+    input{
+        width: 310px;
+    }
+    textarea{
+        width: 300px;
+    }
+    form{
+        width: 90%;
+    }
+    .container {
+        max-width: 360px;
+    }
+    .res h3 {
+        font-size: 22px;
+    }
+    .contactinfo{
+        font-size: 14px;
+    }
+    .section-title p{
+        font-size: 14px;
+    }
+    .main {
+        width: 375px;
+    }
+    .single-menu img {
+        height: 100px;
+        width: 105px;
+    }
+}
+@media (max-width:768px){
+    #hide{
+        display: none;
+    }
+    .bar{
+        display: block;
+    }
+    .hamburger{
+        display: block;
+    }
+}
