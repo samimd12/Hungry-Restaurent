@@ -422,6 +422,14 @@
         height: 215px;
     }
 }
+@media (max-width:415px){
+    .header{
+        left: 3%;
+    }
+    .cards-1 {
+        width: 370px;
+    }
+}
 @media (max-width:768px){
     #hide{
         display: none;
